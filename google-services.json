@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400788829872",
+    "project_id": "mybalaka-7830b",
+    "storage_bucket": "mybalaka-7830b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400788829872:android:f2a33297bf680178b5ed75",
+        "android_client_info": {
+          "package_name": "com.example.mybalaka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK9Dsr4mB4PJJsi0HgCerLFCYbHfNhR-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
